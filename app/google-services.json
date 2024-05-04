@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619260146966",
+    "project_id": "imagesf-d71f9",
+    "storage_bucket": "imagesf-d71f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619260146966:android:b9c3cb19de4ad209038c37",
+        "android_client_info": {
+          "package_name": "com.example.imagesf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhS_95V85GMRoK34YKugUYwS8ttqaIqgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
